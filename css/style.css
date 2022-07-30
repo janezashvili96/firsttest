@@ -1,0 +1,157 @@
+body{
+    background-color: rgba(175, 184, 239, 0.307);
+}
+/* start header */
+.img-logo{
+    height: 75px;
+}
+.navigation{
+    background-color: rgba(238, 176, 238, 0.607);
+    margin-bottom: 30px;
+}
+.nav-li{
+    display: inline-block;
+    margin-right: 35px;
+    vertical-align: middle;
+    font-size: 35px;
+    
+}
+.nav-ul{
+    display: inline-block;
+}
+.logo{
+    display: inline-block;
+    margin-right:50px;
+    vertical-align: middle;
+}
+.nav-a{
+    color: blue;
+}
+.active{
+    color: red;
+}
+/* ent header */
+/* start index section */
+.conteiner-block{
+    width: 1170px;
+    margin: 0 auto;
+}
+.conteiner-img{
+    width: 1170px;
+}
+.blok-img{
+    vertical-align: top;
+    height: 100px;
+    margin-right: 10px;
+}
+.paragrap1{
+    width: 400px;
+    display: inline-block;
+    font-size: 20px;
+    vertical-align: top;
+}.blok1{
+    background-color: lightgrey;
+    width: 570px;
+    height: 150px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 26px;
+    padding: 10px 2px;
+}
+.blok2{
+    background-color: lightgrey;
+    width: 570px;
+    height: 150px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px 2px;
+}
+.blok-title{
+    font-size: 35px;
+    color: rgb(0, 47, 255);
+    margin-bottom: 5px;
+    text-align: center;
+}
+.cointeiner-title{
+    font-size: 35px;
+    color: blue;
+    margin: 20px 0px;
+}
+/* end index section */
+/* start footer */
+.footer{
+    background-color: gray;
+    height: 70px;
+    margin-top: 70px;
+}
+.footer-logo{
+    height: 50px;
+    margin: 10px 30px ;
+}
+/* start nws */
+.date{
+    background-color: blue;
+    height: 70px;
+    width: 70px;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    padding: 5px 5px;
+}
+.tve{
+    color: rgba(31, 31, 232, 0.712);
+    font-size: 25px;
+}
+.section-title{
+    font-size: 25px;
+    color: red;
+    margin: 10px 0px;
+}
+.section-div{
+    width: auto;
+    height: 350px;
+    padding: 20px 5px;
+}
+.section-img{
+    height: 200px;
+    margin-right: 20px;
+    vertical-align: top;
+}
+.section-p1{
+    margin-bottom: 10px;
+}
+.div-p{
+    width: 1000px;
+    font-size: 20px;
+    vertical-align: top;
+    display: inline-block;
+}
+/* end nws */
+/* start contact */
+.contact-box{
+    background-color: darkslategray;
+    height: auto;
+}
+.contact-div{
+    width: 1170px;
+    margin: 0 auto;
+}
+.contact-box1{
+    width: 513px;
+    height: 150px;
+    background-color: rgb(228, 255, 27);
+    padding: 20px 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.contact-ul{
+    font-size: 35px;
+    color: blue;
+}
+.contact-span{
+    color: gray;
+    margin-right: 10px;
+}
+.map{
+    display: inline-block;
+    vertical-align: top;
+}
